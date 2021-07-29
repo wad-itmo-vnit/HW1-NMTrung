@@ -1,6 +1,4 @@
 # HW1-NMTrung
-
-# HW1-NMTrung
 Home Work 1
 
 Mong là sau khóa "chia sẻ" này em có thể tự (hoặc nhờ nhiều, hoặc rất nhiều sự giúp đỡ của mọi người) hoàn thành một chiếc blog hay ho cho mình &#128151;
